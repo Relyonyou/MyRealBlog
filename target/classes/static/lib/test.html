@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>markdown插件测试</title>
+	<!-- 引入css -->
+    <link rel="stylesheet" type="text/css" href="./editormd/css/editormd.min.css">
+</head>
+<body>
+
+	<div id="md-content" style="z-index: 1 !important;">
+	    <textarea></textarea>
+	</div>
+
+    <!-- 这里必须先引入jquery -->
+	<script src="https://cdn.jsdelivr.net/npm/jquery@3.2/dist/jquery.min.js"></script>
+	<!-- 引入js -->
+	<script src="./editormd/editormd.min.js" ></script>
+	<script type="text/javascript">
+       //初始化Markdown编辑器
+	    var contentEditor;
+	    $(function() {
+	      contentEditor = editormd("md-content", {
+	        width   : "100%",//宽度
+	        height  : 500,//高度
+	        syncScrolling : "single",//单滚动条
+			  path    : "./editormd/lib/"//依赖的包路径
+	      });
+	    });
+	</script>
+</body>
+</html>

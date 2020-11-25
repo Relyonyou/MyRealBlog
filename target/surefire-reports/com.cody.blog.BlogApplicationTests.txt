@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cody.blog.BlogApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.634 s - in com.cody.blog.BlogApplicationTests

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<!--抽取公共部分-->
+<head th:replace="admin/_fragments :: head(~{::title})">
+    <meta charset="utf-8">
+    <title>后台管理首页</title>
+    <!-- 移动端的设置 -->
+    <meta name="viewport" content="width=device-width, inital-scale=1.0"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css">
+    <link rel="stylesheet" href="../../static/css/index.css" th:href="@{/css/index.css}"/>
+</head>
+<body>
+<!-- 导航 -->
+<th:block th:replace="admin/_fragments::menu(1)"></th:block>
+
+<!-- 中间内容 -->
+<div class="m-container-small m-padded-tb-big">
+    <div class="ui container">
+        <div class="ui success large message">
+            <h3>Hi,</h3>
+            <p>cody,欢迎您</p>
+        </div>
+        <img src="https://unsplash.it/1000/400?image=1005" class="ui rounded bordered fluid image"/>
+    </div>
+</div>
+<!-- 底部 -->
+<th:block th:replace="admin/_fragments::footer"></th:block>
+<!-- 调用顺序不能变 -->
+<th:block th:replace="admin/_fragments::scrpit"></th:block>
+<script>
+    $('.menu-toggle').click(function () {
+        $('.m-item').toggleClass('m-mobile-hide');
+    });
+
+    $('.ui.dropdown').dropdown({
+        on: 'hover'
+    });
+
+
+</script>
+</body>
+</html>

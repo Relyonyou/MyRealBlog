@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<!--抽取公共部分-->
+<head th:replace="_fragments :: head(~{::title})">
+    <meta charset="UTF-8">
+    <title>error</title>
+    <link rel="stylesheet" href="../../static/css/index.css" th:href="@{/css/index.css}">
+</head>
+<body>
+<!-- 导航 -->
+<th:block th:replace="_fragments::menu(1)"></th:block>
+
+
+<!--<div>-->
+<!--    <div th:utext="'&lt;!&#45;&#45;'" th:remove="tag"></div>-->
+<!--    <div th:utext="'Failed Request URL : '+${url}" th:remove="tag"></div>-->
+<!--    <div th:utext="'Exception message : '+${exception.message}" th:remove="tag"></div>-->
+<!--    <ul th:remove="tag">-->
+<!--        <li th:each="st: ${exception.stackTrace}" th:remove="tag"><span th:utext="${st}" th:remove="tag"></span></li>-->
+<!--    </ul>-->
+<!--    <div th:utext="'&#45;&#45;&gt;'" th:remove="tag"></div>-->
+<!--</div>-->
+
+<div class="m-container-small m-padded-tb-massive">
+    <div class="ui error message m-padded-tb-huge">
+        <div class="ui container">
+            <h1>500</h1>
+            <p>访问错误</p>
+        </div>
+    </div>
+</div>
+<th:block th:replace="_fragments::footer"></th:block>
+</body>
+</html>

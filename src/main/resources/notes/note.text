@@ -1,0 +1,3 @@
+<head th:replace="_fragments :: head(~{::title})">
+    <meta charset="utf-8">
+    <title th:replace="${title}">搜索结果</title>

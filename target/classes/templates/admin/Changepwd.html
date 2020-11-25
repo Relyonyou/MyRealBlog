@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<!--抽取公共部分-->
+<head th:replace="admin/_fragments :: head(~{::title})">
+    <meta charset="utf-8">
+    <title>修改密码</title>
+</head>
+<body>
+
+<div class="m-container-small m-padded-tb-massive" style="max-width: 30em !important;">
+    <div class="ur container">
+        <div class="ui middle aligned center aligned grid">
+            <div class="column">
+                <h2 class="ui teal image header">
+                    <!--                    <img src="" class="image">-->
+                    <div class="content">
+                        修改密码
+                    </div>
+
+                </h2>
+                <form class="ui large form " method="get" action="#" th:action="@{/admin/updatepwd}">
+                    <div class="ui  segment">
+                        <div class="field ">
+                            <div class="ui left icon input">
+                                <i class="user icon"></i>
+                                <input type="text" name="oldpwd" placeholder="请输入原密码">
+                            </div>
+                        </div>
+                        <div class="field ">
+                            <div class="ui left icon input">
+                                <i class="lock icon"></i>
+                                <input type="password" name="newpwd" placeholder="请输入新密码">
+                            </div>
+                        </div>
+                        <div class="field ">
+                            <div class="ui left icon input">
+                                <i class="lock icon"></i>
+                                <input type="password" name="newpwd_r" placeholder="请确认密码">
+                            </div>
+                        </div>
+                        <button class="ui fluid large teal submit button">修改密码</button>
+                    </div>
+
+
+                    <div class="ui error message">
+
+                    </div>
+                </form>
+
+                <div class="ui error message">
+                    <div class="ui mini negative message " th:unless="${#strings.isEmpty(message)}"
+                         th:text="${message}">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- 调用顺序不能变 -->
+<th:block th:replace="admin/_fragments::scrpit"></th:block>
+<script>
+    $('.ui.form').form({
+        fields: {
+            oldpwd: {
+                identifier: 'oldpwd',
+                rules: [{
+                    type: 'empty',
+                    prompt: '请输入原密码'
+                }]
+            }, newpwd: {
+                identifier: 'newpwd',
+                rules: [{
+                    type: 'empty',
+                    prompt: '请输入新密码'
+                }]
+            },newpwd_r: {
+                identifier: 'newpwd_r',
+                rules: [{
+                    type: 'empty',
+                    prompt: '请确认密码'
+                }]
+            }
+        }
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,1508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66dc8f71-7c0f-4b33-95b1-256a069d1470" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../2020年上半年六级救命班讲义.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6级.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeClient_0910/CaptchaCodeClient.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeClient_0910/CaptchaCodeClient_SingleApp.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1888677258515523177095.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181104485董鹏超.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDEA创建Web项目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Market/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Market/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyNote" beforeDir="false" afterPath="$PROJECT_DIR$/../MyNote" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue实现前后端分离/项目/Vue+SpringBoot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Vue实现前后端分离/项目/Vue+SpringBoot/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue实现前后端分离/项目/Vue+SpringBoot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Vue实现前后端分离/项目/Vue+SpringBoot/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue实现前后端分离/项目/Vue+SpringBoot/src/test/java/com/vuespringboot/demo/repository/StudentRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue实现前后端分离/项目/Vue+SpringBoot/target/test-classes/com/vuespringboot/demo/repository/StudentRepositoryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeUI基础样式库.sketch.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web前端/二维码.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog" beforeDir="false" afterPath="$PROJECT_DIR$/../blog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-DOM.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skywalking" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot创建项目后可删除的项目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NzY1ODgy,size_16,color_FFFFFF,t_70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xm-mall" beforeDir="false" afterPath="$PROJECT_DIR$/../xm-mall" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../书签.md" beforeDir="false" afterPath="$PROJECT_DIR$/../书签.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../小程序-博客.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期末/UI笔.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期末/《毛中特》（新版教材）笔记和课后习题（含考研真题）详解.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期末/毛概复习资料.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期末/毛概复习资料.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期末/毛概笔.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../笔记.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/companyVideo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/css/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/css/companyVideo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/css/content.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/css/detail.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/css/news.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/css/swiper.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/5d23338ed9511.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/5d2338f34fa1a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/5d70d2608152f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/5d730bf67fbef.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/5d76ff7f0a258.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/5d79a2a9a896d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/5d803b00b9f28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/5d82db174bfcd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/5d857f64984eb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/5d897646989f2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/5d8c166cb4854.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/5d8eb50e70116.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/about.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/fuwu@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/gongan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/icon_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/icon_page_next_active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/icon_page_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/icon_play (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/icon_play (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/icon_play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/icon_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/img_member_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/img_member_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/img_member_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/img_member_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/img_member_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/img_member_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/img_shop_service_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/img_shop_service_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/img_shop_service_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/img_shop_service_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/img_shop_service_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/img_shop_service_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/img_shop_service_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/img_shop_service_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/img_supplier_service_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/img_supplier_service_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/img_supplier_service_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/img_supplier_service_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/img_supplier_service_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/img_supplier_service_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/img_supplier_service_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/img_supplier_service_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/logo_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/ser_center.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/ser_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/ser_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/shouye@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/slide1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/slide2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/slide3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/yonghu@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/（发）”粽“里寻它千百遍 xiaofeizhe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/（发）悟空人的春节（纪实篇） tongshi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/images/（发）把一亿人不知道的好东西送到TA面前 zhanggui.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/js/anime.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/js/swiper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/member.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/news.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/shopService.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../网页/Bootstrap响应式电商平台网站模板/supplierService.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../computer.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mimiprogramm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../信息就是财富.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../六级救命班-高教.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../小程序.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第2章 作业1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第2章 作业2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../考研/1593241239808.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../考研/1593241263437.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../考研/1593243445414.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../考研/1593244212034.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../考研/1593244341610.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../考研/1593244843607.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../考研/2020年全日制硕士研究生招生专业目录.xls.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../考研/a845b85f60434b7b993b44004b47c871.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../考研/下载.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../考研/考研.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../考研/西安电子科技大学.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/01-文档/微信小程序-基础.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/01-文档/微信小程序-项目.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/app.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/components/Tabs/Tabs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/components/Tabs/Tabs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/components/Tabs/Tabs.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/components/Tabs/Tabs.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/icon/_home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/icon/_img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/icon/_my.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/icon/_search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/icon/_videocamera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/icon/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/icon/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/icon/my.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/icon/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/icon/videocamera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo01/demo01.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo01/demo01.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo01/demo01.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo01/demo01.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo02/demo02.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo02/demo02.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo02/demo02.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo02/demo02.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo03/demo03.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo03/demo03.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo03/demo03.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo03/demo03.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo04/demo04.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo04/demo04.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo04/demo04.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo04/demo04.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo05/demo05.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo05/demo05.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo05/demo05.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo05/demo05.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo06/demo06.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo06/demo06.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo06/demo06.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo06/demo06.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo07/demo07.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo07/demo07.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo07/demo07.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo07/demo07.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo07/demo07.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo08/demo08.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo08/demo08.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo08/demo08.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo08/demo08.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo09/demo09.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo09/demo09.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo09/demo09.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo09/demo09.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo10/demo10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo10/demo10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo10/demo10.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo10/demo10.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo11/demo11.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo11/demo11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo11/demo11.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo11/demo11.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo12/demo12.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo12/demo12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo12/demo12.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo12/demo12.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo13/demo13.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo13/demo13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo13/demo13.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo13/demo13.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo14/demo14.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo14/demo14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo14/demo14.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo14/demo14.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo15/demo15.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo15/demo15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo15/demo15.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo15/demo15.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo16/demo16.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo16/demo16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo16/demo16.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo16/demo16.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo17/demo17.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo17/demo17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo17/demo17.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo17/demo17.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo18/demo18.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo18/demo18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo18/demo18.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/demo18/demo18.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/img/img.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/img/img.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/img/img.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/img/img.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/index/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/index/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/index/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/index/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/logs/logs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/logs/logs.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/logs/logs.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/logs/logs_20190817_193930.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/mine/mine.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/mine/mine.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/mine/mine.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/mine/mine_20190817_193930.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/search/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/search/search.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/search/search.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/pages/search/search.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/project.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/sitemap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/styles/common.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/styles/reset.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/styles/reset.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/01-基础/mini-01/utils/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/app.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/components/SearchInput/SearchInput.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/components/SearchInput/SearchInput.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/components/SearchInput/SearchInput.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/components/SearchInput/SearchInput.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/components/SearchInput/SearchInput.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/components/Tabs/Tabs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/components/Tabs/Tabs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/components/Tabs/Tabs.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/components/Tabs/Tabs.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/components/UpImg/UpImg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/components/UpImg/UpImg.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/components/UpImg/UpImg.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/components/UpImg/UpImg.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/icons/cart-o.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/icons/cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/icons/category-o.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/icons/category.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/icons/home-o.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/icons/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/icons/my-o.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/icons/my.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/lib/runtime/runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/auth/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/auth/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/auth/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/auth/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/cart/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/cart/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/cart/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/cart/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/cart/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/category/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/category/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/category/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/category/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/category/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/collect/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/collect/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/collect/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/collect/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/collect/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/feedback/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/feedback/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/feedback/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/feedback/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/feedback/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/goods_detail/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/goods_detail/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/goods_detail/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/goods_detail/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/goods_detail/index_20190817_193948.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/goods_list/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/goods_list/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/goods_list/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/goods_list/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/goods_list/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/index/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/index/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/index/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/index/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/index/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/login/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/login/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/login/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/login/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/order/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/order/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/order/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/order/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/order/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/pay/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/pay/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/pay/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/pay/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/pay/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/search/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/search/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/search/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/search/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/search/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/user/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/user/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/user/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/user/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/pages/user/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/project.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/request/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/sitemap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/styles/iconfont.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/02-代码/02-项目/utils/asyncWx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/04-素材/O1CN01syHZxs1C8zCFJj97b_!!37-0-lubanu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/04-素材/glgs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/04-素材/icon/_home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/04-素材/icon/_img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/04-素材/icon/_my.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/04-素材/icon/_search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/04-素材/icon/_videocamera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/04-素材/icon/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/04-素材/icon/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/04-素材/icon/my.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/04-素材/icon/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/04-素材/icon/videocamera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/04-素材/icons/cart-o.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/04-素材/icons/cart_20190818_110336.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/04-素材/icons/category-o.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/04-素材/icons/category.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/04-素材/icons/home-o.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/04-素材/icons/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/04-素材/icons/my-o.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../零基础玩转微信小程序/04-素材/icons/my.png" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="t_blog@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="t_blog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="t_blog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="t_blog: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="t_blog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="t_blog: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="t_blog: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/admin/TagController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-498">
+              <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/admin/TypeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-39">
+              <caret line="82" column="20" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/AboutController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/ArchivesShowController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/BlogShowController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="83">
+              <caret line="11" column="2" selection-start-line="10" selection-start-column="11" selection-end-line="11" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/CommentShowController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-324">
+              <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/HttpErrorController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/IndexController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/TagShowController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/TypeShowController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="436">
+              <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>firstPicture</find>
+      <find>&lt;</find>
+      <find>commentid</find>
+      <find>commentnickname</find>
+      <find>parentComment.id</find>
+      <find>qrcode</find>
+      <find>comments</find>
+      <find>description</find>
+      <find>recommend</find>
+      <find>md-content</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/types.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/dao/TypeRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/service/CommentService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/dao/CommentRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/controller/CommentController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/controller/TypeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/controller/TagController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/dao/BlogRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/service/BlogService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/controller/ArchivesController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/messages.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/entity/Comment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/entity/Tag.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/entity/Type.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/entity/Blog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/types.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/tags.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/archives.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/about.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/controller/BlogShowController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/service/impl/BlogServiceImpl.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/service/impl/CommentServiceImpl.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/src/main/resources/notes/note.text" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/search.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/_fragments.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/lib/test.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/blogs-input.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/blog.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/Changepwd.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/_fragments.html" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/util/MarkdownUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/util/MD5Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/controller/CommentShowController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/controller/TypeShowController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/controller/admin/BlogController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/controller/admin/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/controller/admin/TagController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/controller/admin/TypeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/controller/AboutController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/controller/ArchivesShowController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cody/blog/controller/TagShowController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="blog" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="blog" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="blog" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <autoscrollToSource ProjectPane="true" />
+      <sortByType ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cody" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cody" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cody" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cody" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cody" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\董鹏超\Desktop\Note\MyBlog\src\main\resources\static" />
+      <recent name="C:\Users\董鹏超\Desktop\Note\MyBlog\src\main\resources\templates\templates" />
+      <recent name="C:\Users\董鹏超\Desktop\Note\MyBlog\src\main\resources\templates" />
+      <recent name="C:\Users\董鹏超\Desktop\Note\MyBlog\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.cody" />
+      <recent name="com.cody.blog" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cody.blog" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\董鹏超\Desktop\Note\MyBlog\src\main\resources\static" />
+      <recent name="C:\Users\董鹏超\Desktop\Note\MyBlog\src\main\resources\static\lib" />
+      <recent name="C:\Users\董鹏超\Desktop\Note\MyBlog\src\main\resources\templates\admin" />
+      <recent name="C:\Users\董鹏超\Desktop\Note\MyBlog\src\main\resources\static\plugins\qrcode" />
+      <recent name="C:\Users\董鹏超\Desktop\Note\MyBlog\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MD5Utils">
+    <configuration name="MD5Utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cody.blog.util.MD5Utils" />
+      <module name="MyBlog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cody.blog.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="MyBlog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cody.blog.BlogApplication" />
+      <option name="VM_PARAMETERS" value="-server -XX:PermSize=1024M -XX:MaxPermSize=1024m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MD5Utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66dc8f71-7c0f-4b33-95b1-256a069d1470" name="Default Changelist" comment="" />
+      <created>1603788228538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603788228538</updated>
+      <workItem from="1603788231055" duration="7965000" />
+      <workItem from="1603891853068" duration="702000" />
+      <workItem from="1604400344138" duration="8928000" />
+      <workItem from="1604560901069" duration="4702000" />
+      <workItem from="1604981962878" duration="7219000" />
+      <workItem from="1604989296911" duration="472000" />
+      <workItem from="1605004813232" duration="1077000" />
+      <workItem from="1605005949262" duration="9935000" />
+      <workItem from="1605171726169" duration="1122000" />
+      <workItem from="1605172999605" duration="9997000" />
+      <workItem from="1605348783411" duration="10513000" />
+      <workItem from="1605446064072" duration="6084000" />
+      <workItem from="1605508585212" duration="3685000" />
+      <workItem from="1605512386335" duration="2400000" />
+      <workItem from="1605530939213" duration="1097000" />
+      <workItem from="1605532093931" duration="5989000" />
+      <workItem from="1605599576500" duration="15029000" />
+      <workItem from="1605837350279" duration="9581000" />
+      <workItem from="1605856377007" duration="7859000" />
+      <workItem from="1605864579290" duration="4916000" />
+      <workItem from="1605921794373" duration="9547000" />
+      <workItem from="1605939783982" duration="11545000" />
+      <workItem from="1605961672491" duration="4274000" />
+      <workItem from="1606133666238" duration="4026000" />
+      <workItem from="1606196549607" duration="5279000" />
+      <workItem from="1606202079755" duration="8801000" />
+      <workItem from="1606212168000" duration="12115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="174859000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49555555" visible="true" weight="0.20842217" />
+      <window_info id="Structure" order="1" sideWeight="0.5044444" side_tool="true" weight="0.2228145" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3211111" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33444443" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Analysis" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Database Console" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.18496802" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Word Book" order="5" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.21695095" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="RestServices" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4977778" visible="true" weight="0.21641791" />
+      <window_info id="Structure" order="1" sideWeight="0.50222224" side_tool="true" weight="0.1673774" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.08111111" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4476584" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Analysis" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Database Console" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.18710022" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Word Book" order="5" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.21695095" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="RestServices" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cody/blog/service/impl/UserServiceImpl.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/AboutController.java</url>
+          <line>12</line>
+          <properties class="com.cody.blog.controller.AboutController" method="about">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="blog" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>blog</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/service/impl/BlogServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="93" column="38" selection-start-line="93" selection-start-column="38" selection-end-line="93" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1027#1028#0" expanded="true" />
+            <element signature="e#1075#1076#0" expanded="true" />
+            <element signature="e#3949#3950#0" expanded="true" />
+            <element signature="e#3994#3995#0" expanded="true" />
+            <element signature="e#4707#4708#0" expanded="true" />
+            <element signature="e#4752#4753#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/messages.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://fbe0e828-035f-4ad7-affd-c7704cbb107f/schema/t_blog/table/t_blog">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/service/impl/CommentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/notes/note.text">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/notes/springboot启动一直报错.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/types.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/entity/Blog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/lib/editormd/css/editormd.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="51" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="51" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/lib/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="82" selection-start-line="6" selection-start-column="82" selection-end-line="6" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/editormd/editormd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+            <element signature="e#42#48#0" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/editormd/css/editormd.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/_fragments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2808">
+          <caret line="104" column="12" selection-start-line="104" selection-start-column="12" selection-end-line="104" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/blogs-input.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3858">
+          <caret line="65" column="70" lean-forward="true" selection-start-line="65" selection-start-column="70" selection-end-line="65" selection-end-column="70" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="616" column="36" selection-start-line="616" selection-start-column="36" selection-end-line="616" selection-end-column="36" />
+          <folding>
+            <element signature="e#6622#6626#0" expanded="true" />
+            <element signature="e#6627#6631#0" expanded="true" />
+            <element signature="e#13295#13299#0" expanded="true" />
+            <element signature="e#13303#13307#0" expanded="true" />
+            <element signature="e#18980#18985#1" expanded="true" />
+            <element signature="e#19048#19053#0" expanded="true" />
+            <element signature="n#div#3;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#3;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#25558#25564#0" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="62" column="18" lean-forward="true" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/dao/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/service/BlogService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.9.RELEASE/spring-web-5.2.9.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/reflect/InvocationTargetException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.9.RELEASE/spring-webmvc-5.2.9.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="557" column="103" lean-forward="true" selection-start-line="557" selection-start-column="103" selection-end-line="557" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/service/impl/TagServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="83" column="37" selection-start-line="83" selection-start-column="37" selection-end-line="83" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/_fragments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="38" column="82" selection-start-line="38" selection-start-column="82" selection-end-line="38" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/Changepwd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="64" column="37" selection-start-line="64" selection-start-column="37" selection-end-line="64" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/util/MarkdownUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/BlogApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2862">
+          <caret line="106" column="32" selection-start-line="106" selection-start-column="32" selection-end-line="106" selection-end-column="32" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/util/MD5Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+          <folding>
+            <element signature="e#1147#1148#0" expanded="true" />
+            <element signature="e#1200#1201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="70" column="96" selection-start-line="70" selection-start-column="58" selection-end-line="70" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/blogs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBlog.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/admin/BlogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-822">
+          <caret line="60" column="16" lean-forward="true" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/admin/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="69" column="34" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/admin/TagController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-498">
+          <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/admin/TypeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="82" column="20" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/AboutController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/ArchivesShowController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/BlogShowController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="11" column="2" selection-start-line="10" selection-start-column="11" selection-end-line="11" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/CommentShowController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324">
+          <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/HttpErrorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/TagShowController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cody/blog/controller/TypeShowController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
